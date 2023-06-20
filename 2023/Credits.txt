@@ -31,8 +31,11 @@ Art:
 Main Artist
 ImZary
 
-Side Artist
+Concept Artist
 Andy010, PhilRaco Indie
+
+Additional Art Help
+SmashArtist
 
 Story Writing: 
 
@@ -58,7 +61,6 @@ BlueNinja
 
 Special Thanks To:
 
- 
 PhilRaco Indie
 Itayteaa
 owl man
@@ -70,7 +72,10 @@ Andy010
 Chris Zukowski
 Derek Lieu
 Toby Fox
-
+sonically_sound
+shinephoenixstormcrow
+SmashArtist
+Annyew
 
 Alongside everyone who supported the development of PebbleDash! and YOU the player.
 
